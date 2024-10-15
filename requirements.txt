@@ -1,0 +1,4 @@
+fastapi==0.112.2
+pillow==10.4.0
+ultralytics==8.2.101
+ultralytics-thop==2.0.8
